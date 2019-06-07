@@ -105,6 +105,8 @@ Pull requests are welcome!
    ```
      * Use `--dataset blizzard` for Blizzard data
 
+     * Use `--dataset thaivoice` for Thai data
+
 4. **Train a model**
    ```
    python3 train.py
